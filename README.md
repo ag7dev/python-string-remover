@@ -1,1 +1,1 @@
-# pytthon-string-remover
+# python-string-remover

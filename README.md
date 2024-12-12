@@ -1,0 +1,1 @@
+# pytthon-string-remover
